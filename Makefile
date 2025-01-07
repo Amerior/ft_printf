@@ -6,7 +6,7 @@
 #    By: sdu <sdu@student.42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/11/27 17:18:59 by sdu               #+#    #+#              #
-#    Updated: 2024/12/18 13:06:32 by sdu              ###   ########.fr        #
+#    Updated: 2025/01/07 16:15:10 by sdu              ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -32,4 +32,4 @@ fclean: clean
 
 re: fclean all
 
-.PHONY: all clean clean re
+.PHONY: all clean fclean re
